@@ -1,8 +1,8 @@
---- TAVO (Derived) Data ----
+﻿--- TAVO (Derived) Data ----
 
-The data in this folder are derived from the index of the T�bingen Atlas of the Near and Middle East (TAVO). The data are shared in GitHub to enable future researchers to make use of structured data derived from the TAVO index, especially to help build digital gazetteers.
+The data in this folder are derived from the index of the Tübingen Atlas of the Near and Middle East (TAVO). The data are shared in GitHub to enable future researchers to make use of structured data derived from the TAVO index, especially to help build digital gazetteers.
 
-Creation of this dataset was made possible through the generous funding of the National Endowment for the Humanities under a Digital Humanities Startup Grant (HD-51425-11).
+Creation of this dataset was made possible through the generous funding of the National Endowment for the Humanities under a Digital Humanities Startup Grant (HD-51425-11). We thank the Internet Archive for digitizing the TAVO index (http://archive.org/details/tbingeratlasdesv01siew http://archive.org/details/tbingeratlasdesv02siew and http://archive.org/details/tbingeratlasdesv03siew)
 
 
 --- ORGANIZATION AND SCHEMA ----
