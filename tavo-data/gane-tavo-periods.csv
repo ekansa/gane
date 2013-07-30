@@ -1,0 +1,106 @@
+"id","period","startDate","endDate","region","notes"
+"1","Modern Middle East","1918","2000","ME",
+"2","N/A","0","0",,
+"3","Neolithic Near East","-9000","-4500",,
+"4","Natufian Levant","-12500","-9500","Levant",
+"5","Early Ottoman Empire","1453","1683","ME, Balkan, Northern Africa","ends with the siege of Vienna"
+"6","Late Ottoman Empire","1683","1918","ME, Balkan, Northern Africa",
+"7","Paleolithic Middle East","-2600000","-18000","ME",
+"8","Mesolithic Middle East","-18000","-9000","ME","Epipaleolithic-Protoneolithic ME"
+"9","Stone Age Oman","-125000","-3200","Persian Gulf",
+"10","Bronze Age Oman","-2600","-1900","Persian Gulf",
+"11","Mesolithic Levant","-18000","-9500","Levant","Epipaleolithic-Protoneolithic Levant, Kebaran-Natufian"
+"12","Pre-Pottery Neolithic Middle East","-9000","-6000","ME","Aceramic Neolithic ME"
+"13","Pottery Neolithic Middle East","-6000","-4500","ME",
+"14","Neolithic Egypt","-6000","-4500","Egypt",
+"15","Neolithic Middle East","-9000","-4500","ME",
+"16","Chalcolithic Mesopotamia","-6200","-3750","Mesopotamia","Copper Age Mesopotamia, Halaf-Ubaid-Early Uruk Mesopotamia"
+"17","Ubaid-Early Dynastic II Mesopotamia","-5500","-2600","Mesopotamia","Late Chalcolithic-ED II Mesopotamia, Ubaid-Uruk-Jemdet Nasr-ED Mesopotamia"
+"18","Chalcolithic Iran","-5000","-2500","Iran",
+"19","Old Kingdom Egypt","-2670","-2168","Egypt",
+"20","First Intermediate Period Egypt","-2168","-2010","Egypt",
+"21","Middle Kingdom Egypt","-2010","-1640","Egypt",
+"22","Second Intermediate Period Egypt","-1640","-1548","Egypt",
+"23","Old Nubian","-3800","-2300","Nubia","A-Group/Old Nubian—Middle Nubian—OK"
+"24","Middle Nubian","-2300","-1600","Nubia","C-Group—Kerma—Middle Nubian—Pan-Grave—MK "
+"25","Early Dynastic Mesopotamia","-2950","-2350","Mesopotamia",
+"26","Akkadian-Ur III Mesopotamia","-2335","-2000","Mesopotamia","Akkadian—Neo-Sumerian Mesopotamia"
+"27","Early Bronze Age Southern Levant","-3300","-2000","southern Levant",
+"28","Transition Early-Middle Bronze Age Southern Levant","-2100","-1900","southern Levant",
+"29","Middle Bronze Age Southern Levant","-2000","-1400","southern Levant",
+"30","Late Bronze Age Southern Levant","-1400","-1200","southern Levant",
+"31","Old Babylonian/Assyrian Mesopotamia","-2000","-1600","Mesopotamia",
+"32","Early Bronze Age Anatolia","-2000","-1750","Anatolia","Karum Anatolia"
+"33","Middle Bronze Age Anatolia","-1750","-1450","Anatolia",
+"34","Early-Middle Bronze Age Iran","-2500","-1500","Iran",
+"35","New Kingdom Egypt","-1548","-1086","Egypt",
+"36","New Kingdom-Early Late Period Nubia","0","0",,
+"37","Egyptian/Hittite Levant","-1344","-1212","Levant",
+"38","2nd Millennium BC Egypt","-2000","-1000","Egypt",
+"39","2nd Millennium BC Levant","-2000","-1000","Levant","MBA Levant-LBA Levant-Iron Age I Levant [not sure as these are all taken from southern Levant periodisation]"
+"40","Middle Hittite Anatolia","-1450","-1200","Anatolia","New Kingdom Hittite"
+"41","Later 2nd Millennium BC Mesopotamia","-1600","-1000","Mesopotamia","Middle Assyrian/Middle Babylonian/Kassite Mesopotamia, LBA-Early Iron Age Mesopotamia, incl. Sea Peoples"
+"42","Middle Bronze-Iron Age Iran","0","0",,
+"43","Late Period Egypt","-664","-332","Egypt",
+"44","Late Nubian","-1600","-350","Nubia","NK-Kushite-Meroitic"
+"45","Iron Age Southern Levant","0","0",,
+"46","Achaemenid-Roman Levant","-540","324","Levant","Persian-Hellenistic-Roman Levant"
+"47","Roman-Umayyad Levant","-37","1099","Levant","Roman-Byzantine-Caliphate-Umayyad Levant"
+"48","Crusader-Ottoman Levant","1099","1750","Levant","Crusader-Seljuq-Ayyubid-Mamluk-Ottoman Levant"
+"49","Early Iron Age Anatolia","-1200","-700","Anatolia","incl. Mitanni"
+"50","Middle-Late Iron Age Anatolia","-700","-500","Anatolia",
+"51","Neo-Assyrian/Babylonian Middle East","-720","-540","ME",
+"52","Elamite Western Iran","-3200","-540","western Iran","Proto—Old—Middle—Neo-Elamite"
+"53","Urartean Eastern Anatolia","0","0",,
+"54","Neo-Babylonian—Achaemenid Southern Levant","-587","-330","southern Levant",
+"55","Uruk Mesopotamia","-4000","-2950","Mesopotamia","Protoliterate Mesopotamia"
+"56","Hellenistic-Parthian Middle East","-330","226","ME","Seleucid-Early Roman-Arsacid Middle East"
+"57","Achaemenid Middle East","-540","-330","ME",
+"58","Hellenistic Middle East","-330","-140","ME","Macedonian—Seleucid/Ptolemaic/Attalid/Greco-Bactrian"
+"59","Roman Middle East","-140","640","ME",
+"60","Roman Early Empire/Parthian Middle East","-30","226","ME","Early Roman/Parthian"
+"61","Late Antique/Sasanian Middle East","300","640","ME",
+"62","Hellenistic Greek/Roman Republic","-330","-30","Mediterranean",
+"63","Classical (Greco-Roman)","-550","-330","Mediterranean",
+"64","Roman Early Empire","-30","300","western Europe, Mediterranean",
+"65","Hellenistic-Roman Early Empire","-330","300","Mediterranean",
+"66","Ptolemaic-Roman Egypt","0","0",,
+"67","Achaemenid-Roman Republic Middle East","-540","-30","ME",
+"68","Transition Roman Early Empire-Late Antique","284","337","Mediterranean",
+"69","Sasanian Middle East","0","0",,
+"70","Late Antique","300","640","western Europe, Mediterranean","Late Roman Empire"
+"71","Proto-Byzantine","500","650","Eastern Mediterranean","Early Byzantine; includes Justinian I"
+"72","Proto-Byzantine/Sasanian Middle East","0","0",,
+"73","Early Byzantine","650","850","Aegean & Anatolia",
+"74","Late Antique-Late Byzantine","300","1450","ME",
+"75","Roman-Early Byzantine Middle East","-140","850","ME",
+"76","Roman Early Empire-Late Antique","-30","640","Mediterranean",
+"77","Caliphate-Umayyad Middle East","632","750","ME, northern Africa","Early Islamic, Rashidun-Umayyad [starts with death of Muhammed who only controlled Arabia]"
+"78","Abassid Middle East","750","940","ME, northern Africa",
+"79","Samanid-Ghaznavid Iran","819","1186","Iran",
+"80","Seljuq Middle East","1037","1150","ME","Great Seljuq Empire"
+"81","Rum/Crusader Anatolia","1077","1307","Anatolia","Seljuk-Latin States/Francocracy"
+"82","Fatimid Middle East","950","1150","Western ME, northern Africa",
+"83","Timurid Middle East","1370","1501","Eastern ME, Central Asia",
+"84","Safavid Middle East","1501","1725","Eastern ME, Central Asia",
+"85","Early Medieval Caucasus","850","1200","Caucasus","Bagratid, Kingdom of Armenia/Kingdom of Georgia"
+"86","Middle Byzantine","850","1200","Aegean, Balkan & Anatolia",
+"87","Crusader/Byzantine/Seljuq Middle East","1081","1204","Western ME","Latin/1st-4th Crusades—end of Middle Byzantine—Rum/Seljuq"
+"88","1200 BC Middle East","1200","1200","ME, Greece",
+"89","Persian-Medieval Caucasus","600","1500","Caucasus","Persian—Arabic—Early Medieval—Middle Medieval—Turco-Mongol/Late Medieval Caucasus"
+"90","13th Century AD Eastern Mediterranean","1200","1300","Eastern Mediterranean","Late Byzantine-Ayyubid-Mamluk Western Middle East"
+"91","Late Byzantine/Ottoman Rise","1200","1453","Aegean, Balkan & Anatolia",
+"92","Crusader/Seljuq-Ayyubid Levant","1099","1291","Levant","Latin"
+"93","Mamluk Middle East","1258","1516","Western ME",
+"94","Khwarezmian Middle East","1077","1258","eastern ME","Khwarezmid"
+"95","Ilkhanate Middle East","1258","1335","ME, Central Asia","Ilkhanid, Hulagu, Early Mongol"
+"96","Seljuq-Khwarezmian Middle East","1037","1258","ME",
+"97","Mongol Middle East","1258","1501","ME, Central Asia",
+"98","1500 AD Middle East","1500","1500","ME, Greece, Indus",
+"99","Ottoman Rise","1300","1453","Anatolia, Balkan","ends with the conquest of Constantinople"
+"100","Ottoman Empire","1513","1918","ME, Balkan, Northern Africa",
+"101","Caliphate-Fatimid Southern Levant","632","1150","southern Levant","Caliphate/Rashidun-Umayyad-Abassid-Fatimid southern Levant"
+"102","Perso-Ottoman-Russian Caucasus","1500","1918","Caucasus","Safavid-Qajar-Ottoman Empire-Russian Empire Caucasus"
+"103","Khedivate Egypt","1800","1922","Egypt, Sudan","Muhammed Ali-Khedivate Egypt, Alawiyya Egypt, Anglo-Egyptian"
+"104","Ottoman Decline-Mandate Middle East","1900","1950","ME",
+"105","Colonial-Modern Middle East","1800","2000","ME, northern Africa","Late Ottoman-Colonial-Mandate Modern Middle east"
