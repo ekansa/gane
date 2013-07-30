@@ -1,0 +1,63 @@
+"id","tavo","language","iso","iso_stand","note"
+"1","afr","Old French","fro","1",
+"2","äg","[Ancient] Egyptian","egy","1",
+"3","äth","Ethiopian (Geez, Amharic)","ethp","0","Project specific coding"
+"4","ak","Akkadian","akk","1",
+"5","al","Old South Arabian","osar","1","Language List"
+"6","alb","Albanian","sqi","1",
+"7","aln","Old North Arabian","xna","1",
+"8","ape","Old Persian","peo","1",
+"9","ar","[Standard Modern] Arabic","arb","1",
+"10","ar d","Arabic dialect","arbd","0","Project specific coding"
+"11","ara","Aramaic","arc","1",
+"12","arm","Armenian","hye","1",
+"13","ass","Assyrian [dialect of Akkadian]","asyr","1","Language List"
+"14","av","Avestan","ave","1",
+"15","ba","Babylonian [dialect of Akkadian]","baby","1","Language List"
+"16","bu","Bulgarian","bul","1",
+"17","ch","Chinese","zho","1",
+"18","de","German","deu","1",
+"19","el","Elamite","elx","1",
+"20","en","English","eng","1",
+"21","fr","French","fra","1",
+"22","frä","Frankish","frk","1",
+"23","ge","Georgian","kat","1",
+"24","gr","[Ancient] Greek","grc","1",
+"25","he","[Ancient] Hebrew","hbo","1",
+"26","heb","Biblical Hebrew","hbbb","0","Project specific coding"
+"27","het","Hittite","hit","1",
+"28","hi","Hindi","hin","1",
+"29","hur","Hurrian","xhu","1",
+"30","it","Italian","ita","1",
+"31","ka","Canaanite","cana","0","Project specific coding"
+"32","ko","Coptic","cop","1",
+"33","ku","Kurdish","kur","1",
+"34","la","Latin","lat","1",
+"35","ly","Lycian","xlc","1",
+"36","me","Meroitic","xmr","1",
+"37","mpe","Middle Persian (Middle Iranian)","xmn","1",
+"38","na","Nabataean","nabt","0","Project specific coding"
+"39","ngr","Modern Greek","ell","1",
+"40","nhe","Modern Hebrew","heb","1",
+"41","os","Ottoman Turkish","ota","1",
+"42","pa","Pashto","pus","1",
+"43","pam","Pamphylic","pmph","0","Project specific coding"
+"44","pe","[Modern] Persian","fas","1",
+"45","phö","Phoenician","phn","1",
+"46","po","Portuguese","por","1",
+"47","pol","Polish","pol","1",
+"48","rum","Romanian","ron","1",
+"49","rus","Russian","rus","1",
+"50","sa","Sanskrit","san","1",
+"51","si","Sindhi","snd","1",
+"52","sk","Serbo-Croatian","scr","1","abolished ISO 639"
+"53","so","Somali","som","1",
+"54","sp","Spanish","spa","1",
+"55","su","Sumerian","sux","1",
+"56","sw","Swahili","swa","1",
+"57","sy","Syriac","syr","1",
+"58","tü","[Modern] Turkish","tur","1",
+"59","ung","Hungarian","hun","1",
+"60","ur","Urdu","urd","1",
+"61","ura","Urartian","xur","1",
+"62","us","Uzbek","uzb","1",
